@@ -50,6 +50,10 @@
 - (교내)2017-1 좋은 수업 추천하기 공모전 공대부문 우수상 : [링크](https://www.hallym.ac.kr/sub05/cP3/sCP1.html?action=read&nttId=55898&pageIndex=1&searchType=0&searchWrd=%EC%A2%8B%EC%9D%80+%EC%88%98%EC%97%85)
 - (교내)제 1회 한림 소프트웨어 해커톤 우수상 : [링크](http://hlsw.hallym.ac.kr/post/214)
 
+## conference
+- 2018 CODEGATE(2018.04.05) 참석
+- 2018 NVIDIA AI CONFERENCE(2018.11.07~08) 참석
+- 전자공학회 추계 학술대회 (2018.11.23) 참석
 
 ## 개인적인 생각 및 행동
 - "클린코더에 나온 말처럼, 창의적인 출력은 창의적인 입력에서 나온다고 생각합니다.([reference](https://github.com/JSpiner/RESUME/blob/master/README.md))" 라는 말에 동감합니다. 기본지식 없이는 창의력을 가질 수 없습니다.
