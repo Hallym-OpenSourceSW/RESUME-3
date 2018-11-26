@@ -50,6 +50,10 @@
 - (교내)2017-1 좋은 수업 추천하기 공모전 공대부문 우수상 : [링크](https://www.hallym.ac.kr/sub05/cP3/sCP1.html?action=read&nttId=55898&pageIndex=1&searchType=0&searchWrd=%EC%A2%8B%EC%9D%80+%EC%88%98%EC%97%85)
 - (교내)제 1회 한림 소프트웨어 해커톤 우수상 : [링크](http://hlsw.hallym.ac.kr/post/214)
 
+## 공인 성적
+- 토익(2017.08.11) : 735 점
+- TOPCIT(제 10회) : 471 점
+
 ## conference
 - 2018 CODEGATE(2018.04.05) 참석
 - 2018 NVIDIA AI CONFERENCE(2018.11.07~08) 참석
